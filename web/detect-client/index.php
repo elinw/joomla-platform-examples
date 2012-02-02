@@ -35,7 +35,7 @@ jimport('joomla.application.web');
 * @package  Joomla.Examples
 * @since    11.3
 */
-class DetectClient extends JWeb
+class DetectClient extends JApplicationWeb
 {
 	/**
 	 * Overrides the parent doExecute method to run the web application.
